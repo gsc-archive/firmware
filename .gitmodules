@@ -1,0 +1,3 @@
+[submodule "nugget-os"]
+	path = nugget-os
+	url = https://github.com/gsc-archive/firmware-nugget_os
